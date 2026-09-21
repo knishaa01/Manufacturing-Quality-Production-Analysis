@@ -1,1 +1,1 @@
-# Manufacturing-Quality-Production-Analysis
+# Manufacturing-Quality-Production-Intelligence
